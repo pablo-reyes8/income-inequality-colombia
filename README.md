@@ -24,7 +24,17 @@ This project explores the distribution of household incomes in Colombia, identif
   - **Demographics:** household size, education level, number of children  
   - **Labor:** contract type, formal employment status, tenure, pension contributions  
   - **Housing:** ownership status, rental or mortgage payments  
-  - **Geography:** department codes, region classifications  
+  - **Geography:** department codes, region classifications
+
+
+## File Structure
+
+```plaintext
+.
+├── GEIH Analisis.do   # Main Python script with all the project and conclutions
+├── DATA               # The necesary DataFrames to run the project local
+└── README.md          # Project documentation
+```
 
 ## Requirements
 - **Python:** 3.8 or higher  
