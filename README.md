@@ -68,5 +68,13 @@ This project explores the distribution of household incomes in Colombia, identif
 1. **Invest in education:** Expand technical and tertiary programs to boost access to formal, higher-paying jobs.  
 2. **Promote labor formalization:** Offer incentives and reforms for stable contracts and pension contributions, especially in lagging regions.  
 3. **Support regional development:** Improve infrastructure to lower costs of housing, healthcare, and food.  
-4. **Combat corruption & strengthen institutions:** Ensure equitable opportunities nationwide to break the cycle of structural poverty.  
+4. **Combat corruption & strengthen institutions:** Ensure equitable opportunities nationwide to break the cycle of structural poverty.
 
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests at  
+https://github.com/pablo-reyes8
+
+## License
+
+This project is licensed under the Apache License 2.0.  
