@@ -1,5 +1,16 @@
 # income-inequality-colombia
 
+
+
+![Repo size](https://img.shields.io/github/repo-size/pablo-reyes8/income-inequality-colombia)
+![Last commit](https://img.shields.io/github/last-commit/pablo-reyes8/income-inequality-colombia)
+![Open issues](https://img.shields.io/github/issues/pablo-reyes8/income-inequality-colombia)
+![Contributors](https://img.shields.io/github/contributors/pablo-reyes8/income-inequality-colombia)
+![Forks](https://img.shields.io/github/forks/pablo-reyes8/income-inequality-colombia?style=social)
+![Stars](https://img.shields.io/github/stars/pablo-reyes8/income-inequality-colombia?style=social)
+
+
+
 A comprehensive analysis of income inequality in Colombia using the 2024 GEIH dataset. This repository includes data processing, descriptive statistics, visualizations, and policy-oriented insights into socioeconomic disparities across regions and social classes.
 
 ---
